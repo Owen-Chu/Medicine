@@ -1,3 +1,5 @@
 [[dogs]] this relates.
 
-[[dogs]]
+[[dogs|cat]]
+
+
