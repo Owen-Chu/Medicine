@@ -8,4 +8,5 @@ Safety information:
 Side effects:
 1. [[abdominal pain]]
 2. [[appetite decreased]]
-3. 
+3. [[diarrhoea]]
+4. 
