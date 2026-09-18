@@ -3,8 +3,7 @@ Clinical Outcomes:
 **Discuss the indications for prescribing [[Metformin]] and [[Amlodipine]]**
 
 Metformin
-1. Decreases [[Gluconeogenesis]] and increases utilisation of glucose.
-2. Indicates Type 2 diabetes mellitus
+1. e
 
 Amlodipine
 1. e
