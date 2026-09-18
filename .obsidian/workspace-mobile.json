@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Metformin"
             }
+          },
+          {
+            "id": "c84199294b3165b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 1
@@ -188,8 +198,8 @@
   },
   "active": "dae170853dfa8a69",
   "lastOpenFiles": [
-    "README.md",
     "Metformin.md",
+    "README.md",
     "PBL Group H/PBL 2.md",
     "Gluconeogenesis.md",
     "Module 1/TEST.md",
