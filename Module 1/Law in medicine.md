@@ -131,6 +131,7 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 
 
 ## English Court System:
+
 ```mermaid
 flowchart BT
 	A[Magistrates Court] --> B[Crown Court]
@@ -139,7 +140,7 @@ flowchart BT
 	B --> F[Court of Appeal]
 	E --> F[Court of Appeal]
 	F --> G[Supreme Court]
-	Parliament
 	G --> H[European Court of Human Rights]
+	G ~~~ Parliament
 	G --> J[European Court of Justice]
 ```
