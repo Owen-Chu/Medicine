@@ -100,3 +100,6 @@ flowchart LR
 The claimant has the burden of proof 'on the balance of probabilities' (51/49%) they suffered and injury as a direct cause of the sub-standard treatment
 
 There will be a breach of duty of care if a doctor: "... fails to act in accordance with the standards of reasonably competent medical men acting in the relevant field at the relevant time" McNair J
+
+### Criminal Law:
+* 
