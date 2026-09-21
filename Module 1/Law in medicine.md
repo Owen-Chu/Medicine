@@ -165,4 +165,10 @@ flowchart BT
 ### Coroner's Court
 * Coroner - specialist judge who investigates certain kinds of deaths
 * Inquisitorial - cannot apportion blame
-* Answer 4 questions: _who, _
+* Answer 4 questions: _who, when, where and how the deceased die_
+* Balance of probabilities
+
+## Expect to be involved
+* Complaints
+* Claim
+* Patient safety inci
