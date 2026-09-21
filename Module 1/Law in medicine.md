@@ -65,7 +65,7 @@ graph TD
 A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```
 
-**Regulation and Professional Guidance**
+### Regulation and Professional Guidance
 * EU Directive - European Working Time Directive; consumer protection
 * GMC - licensing of doctors
 * Regulatory Bodies - HSE, PHSO, Human Tissue Authority, HFEA
@@ -82,4 +82,5 @@ flowchart TD
 	A --> D[Public]
 ```
 
-###
+### Civil Cases:
+* 
