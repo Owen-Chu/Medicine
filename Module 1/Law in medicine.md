@@ -37,4 +37,5 @@ flowchart TD
 3. 2<sup>nd</sup> reading - Bill debated and voted on
 4. Committee Stage - line by line examination of the Bill
 5. Report Stage - Changes can be suggested and debated
-6. 3<sup>rd</sup> reading 
+6. 3<sup>rd</sup> reading - final debate and vote
+7. 
