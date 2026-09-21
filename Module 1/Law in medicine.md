@@ -58,7 +58,8 @@ flowchart TD
 | Confidentiality       |           |           |           | ✅         |
 | Access to Treatment   | ✅         |           |           |           |
 
+## Case Law:
 ```mermaid
 graph TD
-A[Case] --> [No relevant statute law]
+A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```
