@@ -66,6 +66,6 @@ A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```
 
 **Regulation and Professional Guidance**
-* EU Directive
-* GMC
-* Regulatory Bodi
+* EU Directive - European Working Time Directive; consumer protection
+* GMC - licensing of doctors
+* Regulatory Bodies - HSE, PHSO, Human Tissue Authority, HFEA
