@@ -132,5 +132,6 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 
 ## English Court System:
 ```mermaid
-flowchart 
+flowchart DT
+	A[Magistrates Court] --> B[Crown Court]
 ```
