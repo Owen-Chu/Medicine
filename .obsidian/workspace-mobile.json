@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Pathology.md",
+                "file": "Haemotoxylin and Eosin slide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pathology"
+              "title": "Haemotoxylin and Eosin slide"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
-    "Multidisciplinary team.md",
     "Module 1/Pathology.md",
+    "Haemotoxylin and Eosin slide.md",
+    "Multidisciplinary team.md",
     "Histopathology.md",
     "Drugs/Metformin.md",
     "Symptoms/Angina.md",
