@@ -20,6 +20,9 @@ Virulence: Degree of damage
 3. Mycology - fungi
 4. Parasitology - Protozoa and helminths
 
+## Eukaryotic species
+* 
+
 # LO: Interpret gram stain results and describe the utility and limitations of gram staining.
 
 # LO: Describe the main methods used to detect and identify microorganisms: microscopy, culture, MALDI-TOF and PCR.
