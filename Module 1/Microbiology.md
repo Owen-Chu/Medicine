@@ -21,7 +21,12 @@ Virulence: Degree of damage
 4. Parasitology - Protozoa and helminths
 
 ## Eukaryotic species
-* 
+* Closely related that breed amongst themselves
+
+## Prokaryotic species
+* Similar characteristics
+* Clone (from single cell)
+* Strain (different cells within clones)
 
 # LO: Interpret gram stain results and describe the utility and limitations of gram staining.
 
