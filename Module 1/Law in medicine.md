@@ -20,5 +20,6 @@ flowchart TD
 3. What to do **when things go wrong**
 4. Protecting patient **confidentiality**
 5. Acting in the best interests of vulnerable patients - **children**, those lacking **mental capacity** and people with **mental illness**
-6. **Abortion** and re
+6. **Abortion** and reproduction, **infectious diseases** and proper **use of human tissue**
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
+
