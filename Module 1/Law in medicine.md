@@ -6,9 +6,12 @@
 * Protect the vulnerable
 * Achieve the resolution of disputes
 
-```mermaid TD;
-	A[Medico-legal cases] -->B[Resolution of disputes];
-	A -->C[Ethical Dilemmas];
+```mermaid
+
+
+	C[Medico-legal cases] -->D[Resolution of disputes]
+
+	C -->E[Ethical Dilemmas]
 ```
 
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
