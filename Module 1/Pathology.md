@@ -12,3 +12,4 @@ Processing tissue into parafin blocks allow  thin sample to be formed to be seen
 
 [[Haemotoxylin and Eosin slide]]: Common stain for samples
 
+Standard Histopathology 
