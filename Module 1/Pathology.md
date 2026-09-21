@@ -20,4 +20,7 @@ Standard Histopathology Report:
 5. Macroscopy
 6. Microscopy
 7. Diagnosis
-8. Trainee/Consul
+8. Trainee/Consultant
+9. Report date
+10. Supplementary report
+11. Amended report
