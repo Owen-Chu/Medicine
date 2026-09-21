@@ -154,4 +154,7 @@ flowchart BT
 * Protecting children under the Children Act 1989
 * Human fertilisation, embryology and surrogacy
 * Forced marriage and female genital mutilation
-* Inherent Jurisdiction e.g. authorise withdrawal of medical treatment for a child where dispute arises between the doctors and parnets
+* Inherent Jurisdiction e.g. authorise withdrawal of medical treatment for a child where dispute arises between the doctors and parents
+
+### Court of Protection:
+* 
