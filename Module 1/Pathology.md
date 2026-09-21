@@ -5,7 +5,7 @@
 [[Macroscopy]]: What we can see with naked eye
 [[Microscopy]]: What we can't see with naked eye
 
-Bladder lining called the urothelium
+Bladder lining the is called the
 
 [[Multidisciplinary team]]: 
 

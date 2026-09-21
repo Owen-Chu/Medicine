@@ -11,10 +11,14 @@
             "id": "5157fd5788f3b42a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Module 1/Pathology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pathology"
             }
           },
           {
@@ -115,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "277531a21effc162",
@@ -127,6 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Module 1/Pathology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,13 +187,15 @@
   },
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
-    "2026-09-21.md",
+    "Anatomy/urothelium.md",
     "Module 1/Pathology.md",
+    "Anatomy",
+    "Glossary/Cytopathology.md",
+    "Glossary/Haemotoxylin and Eosin slide.md",
+    "2026-09-21.md",
     "PBL Group H/PBL 2.md",
     "Symptoms/Heart.md",
-    "Glossary/Haemotoxylin and Eosin slide.md",
     "Glossary/Macroscopy.md",
-    "Glossary/Cytopathology.md",
     "Glossary",
     "Glossary/Multidisciplinary team.md",
     "Glossary/Microscopy.md",
