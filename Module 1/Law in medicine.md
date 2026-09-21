@@ -48,3 +48,6 @@ flowchart TD
 * Article 5 - Right to liberty and security
 * Article 8 - Right to respect for private and family life
 * Section 3(1) requires all 'public authorities' to act in compliance e.g. NHS
+
+**HRA in Healthcare**
+Aspect | 
