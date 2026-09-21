@@ -129,3 +129,5 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 2. Why did it happen and who is to blame?
 3. What can be done to prevent this happening again?
 
+
+## English Court System:
