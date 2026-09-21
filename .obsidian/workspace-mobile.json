@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c84199294b3165b3",
+            "id": "7947a6c4f64a881e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -47,7 +47,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -181,19 +181,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c6f711fa17eada1e",
+  "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
-    "Cytopathology.md",
+    "Heart.md",
     "Module 1/Pathology.md",
-    "Drugs/Metformin.md",
+    "PBL Group H/PBL 2.md",
     "Haemotoxylin and Eosin slide.md",
+    "Cytopathology.md",
+    "Glossary",
     "Multidisciplinary team.md",
+    "Microscopy.md",
+    "Macroscopy.md",
     "Histopathology.md",
+    "Drugs/Metformin.md",
     "Symptoms/Angina.md",
     "Diagrams/f570628aef5da4e94fb770fb1af6875e.jpg",
     "README.md",
     "Diagrams",
-    "PBL Group H/PBL 2.md",
     "Metformin.md",
     "Symptoms/diarrhoea.md",
     "Symptoms",
