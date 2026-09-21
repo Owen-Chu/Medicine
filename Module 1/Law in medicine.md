@@ -106,3 +106,12 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 * End of life issues
 * Gross negligence manslaughter
 * Confidentiality
+
+### Civil Law  v Criminal Law:
+
+| Civil                                  | Criminal |
+| -------------------------------------- | -------- |
+| Private disputes between 'individuals' |          |
+| **Balance of probabilities**           |          |
+|                                        |          |
+|                                        |          |
