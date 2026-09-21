@@ -6,7 +6,7 @@
 * Protect the vulnerable
 * Achieve the resolution of disputes
 
-```flowchart TD;
+```mermaid TD;
 	A[Medico-legal cases] -->B[Resolution of disputes];
 	A -->C[Ethical Dilemmas];
 ```
