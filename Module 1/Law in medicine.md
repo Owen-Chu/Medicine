@@ -171,4 +171,9 @@ flowchart BT
 ## Expect to be involved
 * Complaints
 * Claim
-* Patient safety inci
+* Patient safety incidents
+* Coroner's investigations
+* Safeguarding
+* Child protection
+* GMC investigation
+* Court of Protection
