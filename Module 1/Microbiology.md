@@ -1,6 +1,6 @@
 # LO: Define key terms: pathogen, parasitism, mutualism, commensalism, opportunistic pathogen, virulence.
 
-+timeline
+
 
 # LO: Describe the major microorganism classes: Bacteria, viruses, protozoa and helminths.
 
