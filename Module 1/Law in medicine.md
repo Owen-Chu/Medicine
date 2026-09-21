@@ -97,4 +97,6 @@ flowchart LR
 3. They have sustained and injury (loss)
 4. Injury was "<u>caused</u>" by that breach of duty (causation)
 
-The claimant has the burden of proof ''
+The claimant has the burden of proof 'on the balance of probabilities' (51/49%) they suffered and injury as a direct cause of the sub-standard treatment
+
+There will be a breach of duty of care if a doctor: "... fails to act in accordance with the standards of reasonably comp"
