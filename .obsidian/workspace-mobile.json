@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Pathology.md",
+                "file": "Haemotoxylin and Eosin slide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pathology"
+              "title": "Haemotoxylin and Eosin slide"
             }
           },
           {
             "id": "7947a6c4f64a881e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Heart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heart"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Module 1/Pathology.md",
+            "file": "Heart.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -181,13 +186,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "5157fd5788f3b42a",
+  "active": "7947a6c4f64a881e",
   "lastOpenFiles": [
-    "Macroscopy.md",
+    "Haemotoxylin and Eosin slide.md",
     "Module 1/Pathology.md",
+    "Macroscopy.md",
     "Heart.md",
     "PBL Group H/PBL 2.md",
-    "Haemotoxylin and Eosin slide.md",
     "Cytopathology.md",
     "Glossary",
     "Multidisciplinary team.md",
