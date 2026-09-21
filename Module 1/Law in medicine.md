@@ -85,4 +85,9 @@ flowchart TD
 ### Civil Cases:
 * Contract law - exchange of 'legal consideration' in contracts
 * Contracts of employment, for goods and services e.g. private health care
-* **Tort** - Provide a remedy to persons who have been harmed by the conduct of others
+* **Tort** - Provide a remedy to persons who have been harmed by the conduct of others. e.g. car accidents, negligent accidents in healthcare
+
+```mermaid
+flowchart LR
+	[]
+```
