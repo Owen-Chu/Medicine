@@ -28,6 +28,9 @@ Virulence: Degree of damage
 * Clone (from single cell)
 * Strain (different cells within clones)
 
+## Viral Species
+* Virus, Similar characteristics
+* 
 # LO: Interpret gram stain results and describe the utility and limitations of gram staining.
 
 # LO: Describe the main methods used to detect and identify microorganisms: microscopy, culture, MALDI-TOF and PCR.
