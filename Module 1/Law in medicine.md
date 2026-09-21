@@ -92,4 +92,7 @@ flowchart LR
 	A[Breach of duty]-->Causation-->Damage
 ```
 ## Clinical Negligence (Claimant, the patient, must establish 4 things):
-1. They were owed <u>**a duty of care**</u> 
+1. They were owed <u>a duty of care</u> 
+2. The duty of care was "<u>breached</u>"
+3. They have sustained and injury (loss)
+4. Injury was "<u>caused</u>"
