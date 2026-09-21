@@ -144,3 +144,7 @@ flowchart BT
 	G ~~~ Parliament
 	G --> J[European Court of Justice]
 ```
+
+### High Court (3 divisions):
+1. <u>King's Bench Division</u>
+2. <u>Chancery Divison</u>
