@@ -11,14 +11,12 @@
             "id": "5157fd5788f3b42a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Diagrams/f570628aef5da4e94fb770fb1af6875e.jpg"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "f570628aef5da4e94fb770fb1af6875e"
             }
           },
           {
@@ -197,6 +195,7 @@
   },
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
+    "README.md",
     "Diagrams",
     "Drugs/Metformin.md",
     "PBL Group H/PBL 2.md",
@@ -205,7 +204,6 @@
     "Symptoms/diarrhoea.md",
     "Symptoms",
     "Drugs",
-    "README.md",
     "Gluconeogenesis.md",
     "Module 1/TEST.md",
     "PBL Group H",
