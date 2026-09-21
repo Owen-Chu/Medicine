@@ -7,8 +7,8 @@
 * Achieve the resolution of disputes
 
 ```flowchart TD;
-A[Medico-legal cases] -->B[Resolution of disputes];
-A -->C[Ethical Dilemmas];
+	A[Medico-legal cases] -->B[Resolution of disputes];
+	A -->C[Ethical Dilemmas];
 ```
 
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
