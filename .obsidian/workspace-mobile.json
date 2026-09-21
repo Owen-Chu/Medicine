@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Law in medicine.md",
+                "file": "Module 1/Law in medicine.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,7 +160,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Law in medicine.md",
+            "file": "Module 1/Law in medicine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -214,10 +214,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "0de911371ff5a403",
+  "active": "c6f711fa17eada1e",
   "lastOpenFiles": [
     "Module 1/law in medicine.md",
-    "Law in medicine.md",
+    "Module 1/Law in medicine.md",
     "Module 1/Microbiology.md",
     "Diagrams/Screenshot_20260921_105331_Samsung Notes.jpg",
     "Module 1/Pathology.md",
