@@ -159,4 +159,5 @@ flowchart BT
 ### Court of Protection:
 * Established under the Mental Capacity Act 2005
 * Decides whether a prson 'has capacity'
+* Makes declarations, decisions or orders on financial or welfare matters
 * 
