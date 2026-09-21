@@ -17,5 +17,8 @@ flowchart TD
 ## Issues that will be covered during the course:
 1. **Consent** - respect for autonomy
 2. Acting in accordance with **professional standards**
-3. What to do **when things g
+3. What to do **when things go wrong**
+4. Protecting patient **confidentiality**
+5. Acting in the best interests of vulnerable patients - **children**, those lacking **mental capacity** and people with **mental illness**
+6. **Abortion** and re
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
