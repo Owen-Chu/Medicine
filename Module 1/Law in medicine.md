@@ -6,6 +6,11 @@
 * Protect the vulnerable
 * Achieve the resolution of disputes
 
+```flowchart TD;
 
+C[Medico-legal cases] -->D[Resolution of disputes];
+
+C -->E[Ethical Dilemmas];
+```
 
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
