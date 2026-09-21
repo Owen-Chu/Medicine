@@ -53,7 +53,7 @@ flowchart TD
 
 |                       | Article 2 | Article 3 | Article 5 | Article 8 |
 | --------------------- | --------- | --------- | --------- | --------- |
-| Life and Death issues | - []      |           |           |           |
-| Mental Health         |           |           |           |           |
-| Confidentiality       |           |           |           |           |
-| Access to Treatment   |           |           |           |           |
+| Life and Death issues | ✅         | ✅         |           | ✅         |
+| Mental Health         |           |           | ✅         | ✅         |
+| Confidentiality       |           |           |           | ✅         |
+| Access to Treatment   | ✅         |           |           |           |
