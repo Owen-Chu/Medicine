@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Pathology.md",
+                "file": "Multidisciplinary team.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pathology"
+              "title": "Multidisciplinary team"
             }
           },
           {
@@ -198,6 +198,7 @@
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
     "Module 1/Pathology.md",
+    "Multidisciplinary team.md",
     "Histopathology.md",
     "Drugs/Metformin.md",
     "Symptoms/Angina.md",
