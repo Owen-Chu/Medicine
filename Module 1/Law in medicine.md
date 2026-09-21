@@ -75,9 +75,11 @@ A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```mermaid
 flowchart TD
 
-	A[Types of Law] -->B[Statute]
+	A[Types of Law] -->B[Civil]
 
-	A -->C[Criminal Law]
+	A -->C[Criminal]
 	
-	A --> D[Public Law]
+	A --> D[Public]
 ```
+
+###
