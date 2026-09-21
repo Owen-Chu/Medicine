@@ -60,5 +60,5 @@ flowchart TD
 
 ```mermaid
 graph TD
-Case --> 
+A[Case] --> [No relevant statute law]
 ```
