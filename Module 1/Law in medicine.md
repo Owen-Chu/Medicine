@@ -31,3 +31,6 @@ flowchart TD
 	C -->E[Common Law/Case Law]
 ```
 
+## Statute:
+1. Bill proposed
+2. 1<sup>st</sup> reading - 
