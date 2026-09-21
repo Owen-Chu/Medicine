@@ -160,4 +160,5 @@ flowchart BT
 * Established under the Mental Capacity Act 2005
 * Decides whether a prson 'has capacity'
 * Makes declarations, decisions or orders on financial or welfare matters
+* Appoint a deputy to make decisions for people lacking capacity
 * 
