@@ -10,7 +10,7 @@ Bladder lining called the urothelium
 
 Processing tissue into parafin blocks allow  thin sample to be formed to be seen under microscope
 
-[[Haemotoxylin and Eosin slide]]: Common stain for samples
+[[Haemotoxylin and Eosin slide|H+E ]]: Common stain for samples
 
 Standard Histopathology Report:
 1. Address for report
