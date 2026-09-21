@@ -148,7 +148,8 @@ flowchart BT
 ### High Court (3 divisions):
 1. <u>King's Bench Division</u>
 * Deals with "common law" civil claims e.g. tort, contract.
-1. <u>Chancery Divison</u>
-* Deals with wide range of disput
-1. <u>Family Division</u>
-* e
+2. <u>Chancery Divison</u>
+* Deals with wide range of disputes: business, property/land, intellectual property issues, bankruptcy, tax and validity of wills.
+3. <u>Family Division</u>
+* protecting children under the Children Act 1989
+* 
