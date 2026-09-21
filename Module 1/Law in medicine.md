@@ -157,4 +157,6 @@ flowchart BT
 * Inherent Jurisdiction e.g. authorise withdrawal of medical treatment for a child where dispute arises between the doctors and parents
 
 ### Court of Protection:
+* Established under the Mental Capacity Act 2005
+* Decides whether a prson 'has capacity'
 * 
