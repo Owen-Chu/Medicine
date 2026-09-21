@@ -69,3 +69,15 @@ A[Case] --> B[No relevant statute law]-->C[Case Law]
 * EU Directive - European Working Time Directive; consumer protection
 * GMC - licensing of doctors
 * Regulatory Bodies - HSE, PHSO, Human Tissue Authority, HFEA
+
+## Types of Law:
+
+```mermaid
+flowchart TD
+
+	A[Types of Law] -->B[Statute]
+
+	A -->C[Criminal Law]
+	
+	A --> D[Public Law]
+```
