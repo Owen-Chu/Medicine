@@ -121,4 +121,8 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 * Redesign of mental health services
 * Hugely contentious
 
-##
+### Public Inquiry:
+* Major investigations - government minister
+* Inquiries Act 2005
+* Compel testimony and release of other forms of evidence
+1. What happen
