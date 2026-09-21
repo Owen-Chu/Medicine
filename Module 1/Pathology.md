@@ -1,4 +1,5 @@
-<h1>LO: Describe the role of the pathologist in patient care and the importance of clinicopathological correlation in the multidisciplinary team</h1> 
+# LO: Describe the role of the pathologist in patient care and the importance of clinicopathological correlation in the multidisciplinary team
+
 [[Cytopathology]]: Study of disease in cells
 [[Histopathology]]: Microscopic examination of tissues
 [[Macroscopy]]: What we can see with naked eye

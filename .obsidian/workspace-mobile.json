@@ -65,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#LO",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -119,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "277531a21effc162",
@@ -185,7 +185,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5157fd5788f3b42a",
+  "active": "03bf931906f76c76",
   "lastOpenFiles": [
     "PBL Group H/PBL 2.md",
     "Symptoms/Heart.md",
