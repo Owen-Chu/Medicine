@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Urothelium.md",
+                "file": "Module 1/Pathology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Urothelium"
+              "title": "Pathology"
             }
           },
           {
@@ -131,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Urothelium.md",
+            "file": "Module 1/Pathology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,8 +187,8 @@
   },
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
+    "Anatomy/Urothelium.md",
     "Module 1/Pathology.md",
-    "Urothelium.md",
     "Anatomy/urothelium.md",
     "Anatomy",
     "Glossary/Cytopathology.md",
