@@ -59,7 +59,9 @@ flowchart TD
 | Access to Treatment   | ✅         |           |           |           |
 
 ## Case Law:
+
 ```mermaid
 graph TD
 A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```
+
