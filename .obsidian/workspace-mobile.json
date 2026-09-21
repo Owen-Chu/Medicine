@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haemotoxylin and Eosin slide.md",
+                "file": "Glossary/Heart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Haemotoxylin and Eosin slide"
+              "title": "Heart"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart.md",
+                "file": "Glossary/Heart.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Heart"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Heart.md",
+            "file": "Glossary/Heart.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -186,18 +185,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "7947a6c4f64a881e",
+  "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
-    "Haemotoxylin and Eosin slide.md",
+    "Glossary/Haemotoxylin and Eosin slide.md",
+    "Glossary/Heart.md",
     "Module 1/Pathology.md",
-    "Macroscopy.md",
-    "Heart.md",
+    "Glossary/Macroscopy.md",
     "PBL Group H/PBL 2.md",
-    "Cytopathology.md",
+    "Glossary/Cytopathology.md",
     "Glossary",
-    "Multidisciplinary team.md",
-    "Microscopy.md",
-    "Histopathology.md",
+    "Glossary/Multidisciplinary team.md",
+    "Glossary/Microscopy.md",
+    "Glossary/Histopathology.md",
     "Drugs/Metformin.md",
     "Symptoms/Angina.md",
     "Diagrams/f570628aef5da4e94fb770fb1af6875e.jpg",
