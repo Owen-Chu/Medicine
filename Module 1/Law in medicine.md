@@ -40,4 +40,4 @@ flowchart TD
 6. 3<sup>rd</sup> reading - final debate and vote
 7. Bill should then move to the House of Lords
 8. House of Lords can make changes which needs to be considered by House of Commons
-9. 
+9. House of Lords $\rightleftharpoons$ House of Commons until agreement, if no agreement Bi
