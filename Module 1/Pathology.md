@@ -8,3 +8,4 @@ Bladder lining called the urothelium
 
 [[Multidisciplinary team]]: 
 
+Processing tissue into parafin bl
