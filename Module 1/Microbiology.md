@@ -33,7 +33,7 @@ Virulence: Degree of damage
 * Occupies a particular ecological niche
 
 ## Virus
-* 
+* Obligate intracellular parasites -
 # LO: Interpret gram stain results and describe the utility and limitations of gram staining.
 
 # LO: Describe the main methods used to detect and identify microorganisms: microscopy, culture, MALDI-TOF and PCR.
