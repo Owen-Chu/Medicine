@@ -23,3 +23,11 @@ flowchart TD
 6. **Abortion** and reproduction, **infectious diseases** and proper **use of human tissue**
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
 
+```mermaid
+flowchart TD
+
+	C[Sources of Law] -->D[Statute]
+
+	C -->E[Common Law/Case Law]
+```
+
