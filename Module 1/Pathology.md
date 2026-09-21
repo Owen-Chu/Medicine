@@ -8,4 +8,5 @@ Bladder lining called the urothelium
 
 [[Multidisciplinary team]]: 
 
-Processing tissue into parafin bl
+Processing tissue into parafin blocks allow  thin sample to be formed to be seen under microscope
+
