@@ -125,4 +125,7 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 * Major investigations - government minister
 * Inquiries Act 2005
 * Compel testimony and release of other forms of evidence
-1. What happen
+1. What happened?
+2. Why did it happen and who is to blame?
+3. What can be done to prevent this happening again?
+
