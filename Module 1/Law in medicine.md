@@ -14,5 +14,8 @@ flowchart TD
 	C -->E[Ethical Dilemmas]
 ```
 
-I
+## Issues that will be covered during the course:
+1. **Consent** - respect for autonomy
+2. Acting in accordance with **professional standards**
+3. What to do **when things g
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
