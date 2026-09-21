@@ -65,3 +65,7 @@ graph TD
 A[Case] --> B[No relevant statute law]-->C[Case Law]
 ```
 
+**Regulation and Professional Guidance**
+* EU Directive
+* GMC
+* Regulatory Bodi
