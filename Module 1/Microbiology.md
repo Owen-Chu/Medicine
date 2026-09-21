@@ -10,6 +10,8 @@ Microbiologists:
 
 Primary pathogens: Cause disease in healthy host
 Opportunistic pathogens: Cause disease only when host defenses are compromised
+Pathogenicity: Ability to cause disease
+Virulence: Degree of damage
 # LO: Describe the major microorganism classes: Bacteria, viruses, protozoa and helminths.
 
 # LO: Interpret gram stain results and describe the utility and limitations of gram staining.
