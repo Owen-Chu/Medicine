@@ -7,11 +7,12 @@
 * Achieve the resolution of disputes
 
 ```mermaid
-
+flowchart TD
 
 	C[Medico-legal cases] -->D[Resolution of disputes]
 
 	C -->E[Ethical Dilemmas]
 ```
 
+I
 # LO: Describe basic legal principles, e.g. the common law system of precedent, tort, contract and the Human Rights Act (HRA).
