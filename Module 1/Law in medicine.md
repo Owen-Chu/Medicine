@@ -50,4 +50,3 @@ flowchart TD
 * Section 3(1) requires all 'public authorities' to act in compliance e.g. NHS
 
 **HRA in Healthcare**
-Aspect | Article 2 | Article 3 | Article 5 | Article 8
