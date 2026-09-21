@@ -42,7 +42,7 @@ flowchart TD
 8. House of Lords can make changes which needs to be considered by House of Commons
 9. House of Lords $\rightleftharpoons$ House of Commons until agreement, if no agreement Bill will fail
 
-## Human Rights Act 1998
+## Human Rights Act 1998 (HRA)
 * Article 2 - Right to life
 * Article 3 - Prohibition on torture and inhuman or degrading treatment
 * Article 5 - Right to liberty and security
