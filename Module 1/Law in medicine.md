@@ -109,9 +109,9 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 
 ### Civil Law  v Criminal Law:
 
-| Civil                                  | Criminal |
-| -------------------------------------- | -------- |
-| Private disputes between 'individuals' |          |
-| **Balance of probabilities**           |          |
-|                                        |          |
-|                                        |          |
+| Civil                                  | Criminal                                 |
+| -------------------------------------- | ---------------------------------------- |
+| Private disputes between 'individuals' | Public wrongs prosecuted by the State    |
+| **Balance of probabilities**           | **Beyond reasonable doubt**              |
+| Vicarious liability                    | Individual responsibility                |
+| Outcome - financial damages            | Range of punishments (fine/imprisonment) |
