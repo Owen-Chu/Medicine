@@ -11,12 +11,14 @@
             "id": "5157fd5788f3b42a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Diagrams/f570628aef5da4e94fb770fb1af6875e.jpg"
+                "file": "Module 1/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "f570628aef5da4e94fb770fb1af6875e"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -195,9 +197,11 @@
   },
   "active": "5157fd5788f3b42a",
   "lastOpenFiles": [
+    "Drugs/Metformin.md",
+    "Symptoms/Angina.md",
+    "Diagrams/f570628aef5da4e94fb770fb1af6875e.jpg",
     "README.md",
     "Diagrams",
-    "Drugs/Metformin.md",
     "PBL Group H/PBL 2.md",
     "Module 1/Untitled.md",
     "Metformin.md",
