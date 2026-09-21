@@ -89,5 +89,7 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-	[]
+	A[Breach of duty]-->Causation-->Damage
 ```
+## Clinical Negligence:
+1. 
