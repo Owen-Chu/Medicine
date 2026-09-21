@@ -136,5 +136,8 @@ flowchart BT
 	A[Magistrates Court] --> B[Crown Court]
 	C[Coroner's Court]
 	D[County Court] --> E[High Court]
-	B --> 
+	B --> F[Court of Appeal]
+	E --> F[Court of Appeal]
+	F --> G[Supreme Court]
+	G --> H[European Court of Human Ri]
 ```
