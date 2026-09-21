@@ -116,3 +116,9 @@ There will be a breach of duty of care if a doctor: "... fails to act in accorda
 | Vicarious liability                    | Individual responsibility                 |
 | Outcome - financial damages            | Range of punishments (fines/imprisonment) |
 
+### Public Law - Judicial Review:
+* Lawfulness of policies concerning prescription
+* Redesign of mental health services
+* Hugely contentious
+
+##
