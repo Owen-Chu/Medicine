@@ -139,5 +139,7 @@ flowchart BT
 	B --> F[Court of Appeal]
 	E --> F[Court of Appeal]
 	F --> G[Supreme Court]
-	G --> H[European Court of Human Ri]
+	G --> H[European Court of Human Rights]
+	Parliament
+	G --> J[European Court of Justice]
 ```
