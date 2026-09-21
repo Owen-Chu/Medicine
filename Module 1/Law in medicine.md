@@ -151,5 +151,7 @@ flowchart BT
 2. <u>Chancery Divison</u>
 * Deals with wide range of disputes: business, property/land, intellectual property issues, bankruptcy, tax and validity of wills.
 3. <u>Family Division</u>
-* protecting children under the Children Act 1989
-* 
+* Protecting children under the Children Act 1989
+* Human fertilisation, embryology and surrogacy
+* Forced marriage and female genital mutilation
+* Inherent Jurisdiction e.g. authorise withdrawal of medical treatment for a child where dispute arises between the doctors and parnets
