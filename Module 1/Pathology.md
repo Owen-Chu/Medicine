@@ -1,18 +1,18 @@
 # LO: Describe the role of the pathologist in patient care and the importance of clinicopathological correlation in the multidisciplinary team
 
-[[Cytopathology]]: Study of disease in cells
-[[Histopathology]]: Microscopic examination of tissues
-[[Macroscopy]]: What we can see with naked eye
-[[Microscopy]]: What we can't see with naked eye
+[Cytopathology](Cytopathology.md): Study of disease in cells
+[Histopathology](Histopathology.md): Microscopic examination of tissues
+[Macroscopy](Macroscopy.md): What we can see with naked eye
+[Microscopy](Microscopy.md): What we can't see with naked eye
 
-Bladder lining the is called the [[Urothelium |urothelium]]
+Bladder lining the is called the [urothelium](Urothelium%20)
 
 
-[[Multidisciplinary team]]: 
+[Multidisciplinary team](Multidisciplinary%20team.md): 
 
 Processing tissue into parafin blocks allow  thin sample to be formed to be seen under microscope
 
-[[Haemotoxylin and Eosin slide|H+E]]: Common stain for samples
+[H+E](Haemotoxylin%20and%20Eosin%20slide.md): Common stain for samples
 
 Standard Histopathology Report:
 1. Address for report

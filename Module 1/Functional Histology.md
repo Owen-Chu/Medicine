@@ -1,6 +1,6 @@
 # LO: Explain the organisation and structure of the four basic human tissue types (epithelium, connective tissue, muscle and nervous tissue) and describe how cell and tissue structure facilitates normal organ function
 
-[[Histopathology|Histology]] - Study of tissues.
+[Histology](Histopathology.md) - Study of tissues.
 
 ## Tissue:
 * Nervous - Ectoderm
@@ -98,13 +98,13 @@ flowchart LR
 
 ### Skeletal
 
-![[Pasted image 20260922184900.png]]
+![Pasted image 20260922184900](Pasted%20image%2020260922184900.png)
 
 * Actin and Myosin, leads to sarcomeres so striated
 
 ### Smooth 
 
-![[Pasted image 20260922184841.png]]
+![Pasted image 20260922184841](Pasted%20image%2020260922184841.png)
 
 *  Spindle shape
 * Tapered edge
@@ -112,7 +112,7 @@ flowchart LR
 
 ### Cardiac
 
-![[Pasted image 20260922184944.png]]
+![Pasted image 20260922184944](Pasted%20image%2020260922184944.png)
 
 * Short, branched
 * Striated

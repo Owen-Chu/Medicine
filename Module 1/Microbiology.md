@@ -6,7 +6,7 @@ Microbiologists:
 * Antibiotic stewardship
 * Near lab, sometimes wards
 
-![[Screenshot_20260921_105331_Samsung Notes.jpg]]
+![Screenshot_20260921_105331_Samsung Notes](Screenshot_20260921_105331_Samsung%20Notes.jpg)
 
 Primary pathogens: Cause disease in healthy host
 Opportunistic pathogens: Cause disease only when host defenses are compromised
