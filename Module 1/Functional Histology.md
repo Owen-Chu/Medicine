@@ -10,7 +10,7 @@
 
 ## Epithelium:
 
-![[Pasted image 20260922181355.png]]
+![](..Diagrams/Pasted%image%20260922181355.png)
 
 **Apical** - Top
 **Basal** - Bottom
@@ -41,7 +41,7 @@ flowchart TD
 ```
 This flow chart took me forever holy 
 
-![[Screenshot 2026-09-22 at 18.29.18.png]]
+![](..Diagrams/Screenshot%2026-09-22%at%18.29.18.png)
 
 **Simple** - Just single layer
 **Stratified** - Tall, a few layers
