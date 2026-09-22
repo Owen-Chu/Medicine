@@ -9,4 +9,4 @@
 * Connective - Mesoderm
 
 ## Epithelium:
-
+![[Pasted image 20260922181355.png]]
