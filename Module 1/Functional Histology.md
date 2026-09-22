@@ -2,7 +2,8 @@
 [[Histopathology|Histology]] - Study of tissues.
 
 ## Tissue:
-* Nervous
-* Epithelial
-* Muscle
-* Conne
+* Nervous - Ectoderm
+* Epithelial - Endoderm
+* Muscle - Mesoderm
+* Connective - Mesoderm
+
