@@ -73,5 +73,18 @@ flowchart TD
 * **Solution**: publish protocols - statistical analysis
 
 ### Where bias can occur
-```
+```mermaid
+flowchart TD
+	A[Study population] --> B{Selection criteria applied}
+	B --> C[Potential participants]
+	B --> D[Non-participants]
+	C --> E[Invitation to participate]
+	E --Volunteer bias--> Participants
+	E --> D
+	Participants --Selection bias--> Randomisation
+	Randomisation --> Treatment
+	Randomisation --> Control
+	Treatment --Performance bias--> Outcome/s
+	Control --Lost to follow up bias--> Outcome/s
+	Outcome/s --Detection bias--> F[Published data]
 ```
