@@ -30,3 +30,48 @@ flowchart TD
 
 * In this example, weather is the confounder.
 
+## Randomisation
+* Distribute confounders equally so balanced across arms
+* Large sample needed
+* Difference found is more likely to relate only to the intervention
+* May not be ethical - withholding treatment
+* Logistically infeasible
+* Resource intensive
+
+## RCT limitations
+* Bias - systematic deviation from truth
+* RCTs subject to bias
+
+### Volunteer bias
+* Difference between those who choose and choose not to participate
+* Reduces generalisability - application to larger population from subset of population
+* **Solution**: reduce barriers to participation - incentivisation
+
+### Selection bias
+* Groups differ in characteristics due to the way of selection
+* Benefits of randomisation lost or reduced - increased confounding
+* **Solution**: allocation concealment - protocols
+
+### Performance bias
+* Differences in care provided/participant behaviour separate from intervention
+* Obscures impact of intervention
+* **Solution**: blinding (masking)
+
+### Lost to follow-up bias
+* Difference between drop outs within groups
+* Jeopardises comparability of groups
+* **Solution**: minimise dropout - intention to treat
+
+### Detection bias
+* Difference in outcome assessment
+* Affects measuring true effect
+* **Solution**: blinding of outcomes assessor
+
+### Reporting bias
+* Selective outcome reporting
+* Focus on positives - biased literature
+* **Solution**: publish protocols - statistical analysis
+
+### Where bias can occur
+```
+```
