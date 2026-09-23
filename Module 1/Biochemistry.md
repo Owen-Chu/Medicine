@@ -119,5 +119,7 @@ Absorbance (A) = molar absorptivity ($\epsilon$) * path length (b) * concentrati
 ### Reference ranges
 * Range of values considered 'normal' for a population
 * Defined by testing large group of health individuals: 95% confidence interval ($\pm$ 2$\sigma$ from $\mu$ on normal distribution)
+* Range specific for age, gender, physiological state
+* **Critical value** - Test result that indicates a potentially life-threatening situation requiring immediate medical intervention
 
 
