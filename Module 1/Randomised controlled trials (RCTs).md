@@ -88,8 +88,33 @@ flowchart TD
 	Control --Lost to follow up bias--> Outcome/s
 	Outcome/s --Detection bias--> F[Published data]
 
-	F[Published data] --> [Reporting bias]END:::hidden
+	G[Reporting bias] --> F
 
-	classDef hidden display: none;
 
 ```
+
+## Internal validity
+* Strength of evidence for causality - degree to which results are attributable to the intervention than other factors
+* Strong in RCTs with robust randomisation and blinding
+* RCTs good for measuring efficacy
+![](../Diagrams/Pasted%20image%2020260923213913.png)
+
+## RCT weaknesses
+* Expensive (t and £)
+* Short follow-ups
+* Not always feasible
+* Not always ethical
+* Generalisability/external validity
+
+### External validity
+* Degree to which study results can be applied to wider populations and settings
+* RCTs often have lower external validity
+* Selection criteria lead to particular participant types recruited
+* Focus on **efficacy** rather than **effectiveness**
+
+## Quasi-interventional studies
+* Interventional study *without* random assignment
+* 'Quasi-' means lacks
+* **Allocation** - characteristic, natural experiments, pre-post comparison
+* **Pros** - potentially large samples, feasible where RCTs aren't
+* **Cons** - no randomisation leading to confounding, other naturally occurring events can impact measuring effect
