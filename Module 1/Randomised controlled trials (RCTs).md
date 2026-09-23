@@ -88,8 +88,8 @@ flowchart TD
 	Control --Lost to follow up bias--> Outcome/s
 	Outcome/s --Detection bias--> F[Published data]
 
-	G[Reporting bias] --> F
-
+	F --Reporting bias--> Public
+	
 
 ```
 
