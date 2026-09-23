@@ -103,18 +103,21 @@ Absorbance (A) = molar absorptivity ($\epsilon$) * path length (b) * concentrati
 * Compliance with Standards and Regulations
 * External quality assurance - consistent performance within laboratory compared to other laboratories
 
-### Interpretation of results
+## Interpretation of results
 
 | Biological factors        | Pre-analytical and Analytical factors |
 | ------------------------- | ------------------------------------- |
 | Age                       | Sample collection and storage         |
 | Gender                    | Posture                               |
 | Kidney and liver function | Substances interfering in alyses      |
-| Genetics and ethnicity    |                                       |
-| Pregnancy                 |                                       |
+| Genetics and ethnicity    | Analytical variability                |
+| Pregnancy                 | Analytical quality                    |
 | Circadian rhythm          |                                       |
 
+**Standardisation** - Sample type, processing, time of day.
 
-
+### Reference ranges
+* Range of values considered 'normal' for a population
+* Defined by testing large group of health individuals: 95% confidence interval ($\pm$ 2$\sigma$ from $\mu$ on normal distribution)
 
 
