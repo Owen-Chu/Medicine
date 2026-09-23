@@ -20,7 +20,13 @@
 ## Experiments
 * Evidence of causation
 * **Confounder** - variable that influences both dependent (exposure) and independent variable (outcome), causes a spurious relationship
+
 ```mermaid
-sequenceDiagram
-	Weather->>
+flowchart TD
+	Weather --> A[Ice cream sales]
+	Weather --> B[Homicide rates]
+	A <-.-> |Does not cause|B
 ```
+
+* In this example, weather is the confounder.
+
