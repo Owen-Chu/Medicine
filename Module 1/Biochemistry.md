@@ -85,5 +85,36 @@ Absorbance (A) = molar absorptivity ($\epsilon$) * path length (b) * concentrati
 ### Chromatography
 * Separate based on size, affinity and charge
 * Sample loaded onto stationary phase
-* Separation 
+* Separation while moving with mobile phase
+
+### Immunoassays
+* Antibody-based analytical methods
+* **Highly specific** - little cross-reactivity
+* **High sensitivity** - detection at low concentrations
+* Radio-immunoassay (RIA)
+* Enzyme-linked immunosorbent assays (ELISA)
+* Fluoro-immunoassay (FIA)
+* Chemiluminescence immunoassay (CLIA)
+
+### Quality control
+* Accuracy
+* Precision
+* Patient safety and effective healthcare delivery
+* Compliance with Standards and Regulations
+* External quality assurance - consistent performance within laboratory compared to other laboratories
+
+### Interpretation of results
+
+| Biological factors        | Pre-analytical and Analytical factors |
+| ------------------------- | ------------------------------------- |
+| Age                       | Sample collection and storage         |
+| Gender                    | Posture                               |
+| Kidney and liver function | Substances interfering in alyses      |
+| Genetics and ethnicity    |                                       |
+| Pregnancy                 |                                       |
+| Circadian rhythm          |                                       |
+
+
+
+
 
