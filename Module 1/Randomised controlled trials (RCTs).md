@@ -88,7 +88,7 @@ flowchart TD
 	Control --Lost to follow up bias--> Outcome/s
 	Outcome/s --Detection bias--> F[Published data]
 
-	dog:::hidden --Reporting bias--> F[Published data]
+	F[Published data] --> [Reporting bias]END:::hidden
 
 	classDef hidden display: none;
 
