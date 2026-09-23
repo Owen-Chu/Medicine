@@ -7,12 +7,16 @@
 * Randomly allocate to groups - control and comparator group
 * Interested in a particular group
 * **CONSENT!!!!!**
-### PICO
+## PICO
 * Useful for summarising studies
 
+|                  |                                      |
+| ---------------- | ------------------------------------ |
+| **P**opulation   | Sample type                          |
+| **I**ntervention | Alternative hypothesis H<sub>1</sub> |
+| **C**ontrol      | Null hypothesis H<sub>0</sub>        |
+| **O**utcome      | Change/no change                     |
 
-| Population   | Sample type |
-| ------------ | ----------- |
-| Intervention |             |
-| Control      |             |
-| Outcome      |             |
+## Experiments
+* Evidence of causation
+* **Confounder** - 
