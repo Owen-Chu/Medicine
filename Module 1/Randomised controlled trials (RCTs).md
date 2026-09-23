@@ -87,4 +87,9 @@ flowchart TD
 	Treatment --Performance bias--> Outcome/s
 	Control --Lost to follow up bias--> Outcome/s
 	Outcome/s --Detection bias--> F[Published data]
+
+	dog:::hidden --Reporting bias--> F[Published data]
+
+	classDef hidden display: none;
+
 ```
