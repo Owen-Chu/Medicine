@@ -83,5 +83,7 @@ Absorbance (A) = molar absorptivity ($\epsilon$) * path length (b) * concentrati
 * **Moving boundary electrophoresis** - in solution without supporting media
 
 ### Chromatography
-* 
+* Separate based on size, affinity and charge
+* Sample loaded onto stationary phase
+* Separation 
 
