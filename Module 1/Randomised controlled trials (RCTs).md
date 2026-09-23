@@ -19,4 +19,8 @@
 
 ## Experiments
 * Evidence of causation
-* **Confounder** - 
+* **Confounder** - variable that influences both dependent (exposure) and independent variable (outcome), causes a spurious relationship
+```mermaid
+sequenceDiagram
+	Weather->>
+```
