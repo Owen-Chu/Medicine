@@ -147,7 +147,7 @@
 
 * **Abduction** - take away from midline
 * **Adduction** - take to midline (add)
-![303](../Diagrams/Pasted%20image%2020260924165304.png)
+![301](../Diagrams/JUMPING%20JACK%20GIF.gif)
 * Arms out - abduction
 * Arms return to sides - adduction
 
