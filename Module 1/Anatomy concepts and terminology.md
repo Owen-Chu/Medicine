@@ -147,9 +147,13 @@
 
 * **Abduction** - take away from midline
 * **Adduction** - take to midline (add)
+![303](../Diagrams/Pasted%20image%2020260924165304.png)
+* Arms out - abduction
+* Arms return to sides - adduction
 
 * **Medial** - turn inwards
 * **Lateral** - turn outwards
+
 
 * **Pronation** - palm downwards
 * **Supination** - palm upwards (supper, soup beg for food)
