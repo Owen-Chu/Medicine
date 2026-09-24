@@ -139,12 +139,20 @@
 * Efferent - send motor signals back
 
 # Movements of limbs
+* **Flexion** - Bend in (cannonball position)
+* **Extension** - Straighten/relax (CR7 position)
+![296](../Diagrams/Pasted%20image%2020260924165010.png)
+* As arm moves up - flexion
+* As arm moves down - extension
+
 * **Abduction** - take away from midline
 * **Adduction** - take to midline (add)
 
 * **Medial** - turn inwards
 * **Lateral** - turn outwards
+
 * **Pronation** - palm downwards
 * **Supination** - palm upwards (supper, soup beg for food)
+
 * **Inversion** - footsies face each other
 * **Eversion** - footsies face away from each other
