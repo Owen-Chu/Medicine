@@ -64,6 +64,7 @@
 * Movement - relax and contract
 * Direction of fibres - striations due to sarcomeres
 * Skeletal and smooth muscle
+* Bring bones closer or further apart
 
 ## Nerves
 * Control everything in body
@@ -119,11 +120,31 @@
 
 ### Types
 
-| Joint           | Movement               |
-| --------------- | ---------------------- |
-| Hinge           | Up/down xor left/right |
-| Ball and socket | Up/down/left/right     |
-| Saddle          | Up/down or left/right  |
-| Pivot           |                        |
-| Plane/gliding   |                        |
-| Ellipsoid       |                        |
+| Joint           | Movement                |
+| --------------- | ----------------------- |
+| Hinge           | Up/down xor left/right  |
+| Ball and socket | Up/down/left/right      |
+| Saddle          | Up/down or left/right   |
+| Pivot           | Clockwise/anticlockwise |
+| Plane/gliding   | Slide on plane          |
+| Ellipsoid       | Up/down or left/right   |
+## Muscle
+1. Must have at least 2 points of attachment
+2. Points of attachment must cross a joint
+3. How it crosses the joint determines the action
+
+## Somatic nervous system
+* Voluntary control
+* Afferent - take sensory signals away
+* Efferent - send motor signals back
+
+# Movements of limbs
+* **Abduction** - take away from midline
+* **Adduction** - take to midline (add)
+
+* **Medial** - turn inwards
+* **Lateral** - turn outwards
+* **Pronation** - palm downwards
+* **Supination** - palm upwards (supper, soup beg for food)
+* **Inversion** - footsies face each other
+* **Eversion** - footsies face away from each other
