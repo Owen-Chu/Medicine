@@ -29,3 +29,7 @@
 * **Blue square** is said to be <u>deep</u> to both **red triangle** and **yellow circle**
 
 # Anatomical planes
+* Split body into XYZ planes
+
+## Sagittal
+* 
