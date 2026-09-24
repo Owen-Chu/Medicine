@@ -157,6 +157,9 @@
 
 * **Pronation** - palm downwards
 * **Supination** - palm upwards (supper, soup beg for food)
+![305](../Diagrams/Pasted%20image%2020260924170827.png)
+* Palm up - supination
+* Palm rotate to face down - pronation
 
 * **Inversion** - footsies face each other
 * **Eversion** - footsies face away from each other
