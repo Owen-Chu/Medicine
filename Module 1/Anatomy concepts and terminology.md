@@ -65,3 +65,65 @@
 * Direction of fibres - striations due to sarcomeres
 * Skeletal and smooth muscle
 
+## Nerves
+* Control everything in body
+* CNS and PNS
+* Somatic (conscious) and Autonomic (unconscious)
+
+## Arteries
+* Take blood away from heart
+* High pressures
+* Thick walls - smooth muscle and elastic fibres
+
+## Veins
+* Take blood **IN** (this excludes the coronary arteries that supply the heart with oxygen) to the heart
+* Low pressures
+* Thin walls - valves
+
+# Skeleton
+* Foundation for body
+* Support soft tissues
+* Protect organs
+* Aids movement
+
+### Axial
+* Skull, ribcage and spine
+![](../Diagrams/Pasted%20image%2020260924162423.png)
+
+### Appendicular
+* Arms, legs and hip
+![277](../Diagrams/Pasted%20image%2020260924162521.png)
+
+## Bones
+* Flat - protective function (cranium)
+* Long - limb bones (femur and humerus)
+* Short - cuboids (ankle and wrist)
+* Irregular - others (pelvis and vertebrae)
+* Sesamoid - in tendons (patella)
+
+
+### Landmarks
+* Holes, spaces or depressions - fossa, notch, foramen
+* Lumps and bumps - crest, tubercle, spine
+
+## Joints
+* Variable degrees of movement
+* Fibrous - not very mobile, fibrous connection
+* Cartilaginous - strong and slightly mobile, fibrocartilage
+* Synovial - most mobile, most common
+
+### Synovial joint
+* Cartilage covers joint surfaces
+* Surrounded by joint capsule
+* Synovial fluid lubricates and nourishes
+
+### Types
+
+| Joint           | Movement               |
+| --------------- | ---------------------- |
+| Hinge           | Up/down xor left/right |
+| Ball and socket | Up/down/left/right     |
+| Saddle          | Up/down or left/right  |
+| Pivot           |                        |
+| Plane/gliding   |                        |
+| Ellipsoid       |                        |
