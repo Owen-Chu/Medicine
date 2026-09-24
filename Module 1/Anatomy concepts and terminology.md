@@ -32,4 +32,36 @@
 * Split body into XYZ planes
 
 ## Sagittal
-* 
+* XZ plane
+![365](../Diagrams/Pasted%20image%2020260924160905.png)
+* Splits body into left and right halves
+
+## Transverse
+* XY plane
+![364](../Diagrams/Pasted%20image%2020260924161217.png)
+* Splits body into top and bottom halves
+
+## Coronal 
+* YZ plane
+![363](../Diagrams/Pasted%20image%2020260924161335.png)
+* Splits body into front and back halves
+
+# Tissue types
+## Bone
+* Hard, living tissue
+* Structure of skeleton
+* Compact and spongy bone
+
+## Ligament
+* Attach bone to bone
+* Connect other structures
+
+## Tendon
+* Connective tissue
+* Muscle to bone
+
+## Muscle
+* Movement - relax and contract
+* Direction of fibres - striations due to sarcomeres
+* Skeletal and smooth muscle
+
