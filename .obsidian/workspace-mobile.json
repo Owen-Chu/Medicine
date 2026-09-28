@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Anatomy concepts and terminology.md",
+                "file": "Module 1/Functional Histology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anatomy concepts and terminology"
+              "title": "Functional Histology"
             }
           },
           {
@@ -216,8 +216,8 @@
   },
   "active": "0de911371ff5a403",
   "lastOpenFiles": [
-    "PBL Group H/PBL 2.md",
     "Module 1/Anatomy concepts and terminology.md",
+    "PBL Group H/PBL 2.md",
     "Diagrams/Pasted image 20260924170827.png",
     "Diagrams/Pasted image 20260924165304.png",
     "Diagrams/Pasted image 20260924165010.png",
